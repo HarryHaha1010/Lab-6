@@ -1,1 +1,1 @@
-Readme file in khanh's branch
+Add more detail
